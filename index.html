@@ -1,0 +1,58 @@
+<!doctype html>
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+  <title>vis</title>
+  <meta name="description" content="">
+  <meta name="author" content="">
+
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+
+  <!-- CSS concatenated and minified via ant build script-->
+  <link rel="stylesheet" href="css/reset.css">
+  <link rel="stylesheet" href="css/bootstrap.min.css">
+  <link rel="stylesheet" href="css/style.css">
+  <!-- end CSS-->
+
+  <script src="js/libs/modernizr-2.0.6.min.js"></script>
+  <script src="https://d3js.org/d3.v5.min.js"></script>
+  <script src='https://cdnjs.cloudflare.com/ajax/libs/lodash.js/4.13.1/lodash.js'></script>
+  <link href='https://fonts.googleapis.com/css?family=Libre+Baskerville:400,700' rel='stylesheet' type='text/css'>
+</head>
+
+<body>
+
+  <div id="container" class="container">
+      <select id="text-select">
+        <option value="All">All Schools</option>
+        <option value="Harvard">Harvard</option>
+        <option value="BU">BU</option>
+        <option value="Cornell">Cornell</option>
+      </select>
+    <header>
+    <h1>Datamatch Word Bubble Cloud</h1>
+    <h2>The most frequently used words in bios for:</h2>
+      <h2 id="book-title"></h2>
+    </header>
+    <div id="main" role="main">
+      <div id="vis"></div>
+      <div id="status"></div>
+    </div>
+  </div> <!--! end of #container -->
+
+
+  <!-- <script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script> -->
+  <script>window.jQuery || document.write('<script src="js/libs/jquery-1.7.2.min.js"><\/script>')</script>
+
+
+  <script defer src="js/plugins.js"></script>
+  <script src="js/libs/coffee-script.js"></script>
+  <script src="js/libs/d3.min.js"></script>
+  <script type="text/javascript" src="js/main.js"></script>
+  <script type="text/javascript">
+  </script>
+
+
+</body>
+</html>
