@@ -23,7 +23,7 @@ const Bubbles = function() {
 
     const textValue = function (d) { return d.name;};
     // spacing constants
-    const collisionPadding = 30;
+    const collisionPadding = 20;
     const minCollisionRadius = 10;
 
     //  jitter controls the "jumpiness" of the collisions
@@ -180,6 +180,8 @@ const Bubbles = function() {
         // but if we did, this line of code would remove them from the
         // visualization as well
         // node.exit().remove();
+        var colors = ['#FA877F', '#FFAD87', '#DEDEF0'];
+        var random_color = colors[Math.floor(Math.random() * colors.length)];
 
         return node.enter()
             .append("a")
@@ -187,13 +189,18 @@ const Bubbles = function() {
             .attr("xlink:href", d => `#${encodeURIComponent(idValue(d))}`)
             .call(force.drag)
             .call(connectEvents)
+            .append("circle")
+            .attr("r", (d) => rScale(rValue(d)))
+            .style("fill","pink")
 
-            .append("image")
-            .attr("xlink:href", "heart.png")
-            .attr("x",  d => (-1.5 * rScale(rValue(d))) + "px")
-            .attr("y",  d => (-1.5 * rScale(rValue(d))) + "px")
-            .attr("width",  d => (3 * rScale(rValue(d))) + "px")
-            .attr("height",  d => (3 * rScale(rValue(d))) + "px");
+
+        // in case we want to append an image
+            // .append("image")
+            // .attr("xlink:href", "heart.png")
+            // .attr("x",  d => (-1.5 * rScale(rValue(d))) + "px")
+            // .attr("y",  d => (-1.5 * rScale(rValue(d))) + "px")
+            // .attr("width",  d => (3 * rScale(rValue(d))) + "px")
+            // .attr("height",  d => (3 * rScale(rValue(d))) + "px");
 
 
 
@@ -383,7 +390,7 @@ const Bubbles = function() {
         if (id.length > 0) {
             return d3.select("#status")
                 .html(`<h3>The word <span class=\"active\">${id}
-                        </span> was the <span class=\"active\">${rank}
+                        </span> was the <span class=\"active\">#${rank}
                         </span> most common word</h3>`);
         } else {
             return d3.select("#status").html("<h3>No word is selected</h3>");
@@ -464,9 +471,18 @@ root.plotData = (selector, data, plot) => d3.select(selector)
 
 const texts = [
     {key:"All",file:"total_wordfreq.csv",name:"All Schools"},
-    {key:"Harvard",file:"top_sherlock.csv",name:"Harvard"},
-    {key:"BU",file:"alice.csv",name:"Boston University"},
-    {key:"Cornell",file:"top_gulliver.csv",name:"Cornell"}
+    {key:"Harvard",file:"harvard.csv",name:"Harvard"},
+    {key:"Boston College",file:"bostoncollege.csv",name:"Boston College"},
+    {key:"Brown",file:"brown.csv",name:"Brown University"},
+    {key:"Claremont",file:"Claremont.csv",name:"Claremont Colleges"},
+    {key:"Cornell",file:"cornell.csv",name:"Cornell University"},
+    {key:"Columbia",file:"Columbia.csv",name:"Columbia University"},
+    {key:"UW-Madison",file:"madison.csv",name:"University of Wisconsin-Madison"},
+    {key:"MIT",file:"mit.csv",name:"Massachusetts Institute of Technology"},
+    {key:"UChicago",file:"uchicago.csv",name:"University of Chicago"},
+    {key:"Wellesley",file:"wellesley.csv",name:"Wellesley College"},
+    {key:"WashU",file:"washU.csv",name:"Washington University in St. Louis"},
+    {key:"Yale",file:"yale.csv",name:"Yale University"}
 ];
 
 // ---

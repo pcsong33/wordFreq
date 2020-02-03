@@ -1,0 +1,680 @@
+{
+      "word": "like",
+      "occurrences": 107
+    },
+    {
+      "word": "love",
+      "occurrences": 98
+    },
+    {
+      "word": "food",
+      "occurrences": 47
+    },
+    {
+      "word": "hi",
+      "occurrences": 44
+    },
+    {
+      "word": "music",
+      "occurrences": 40
+    },
+    {
+      "word": "looking",
+      "occurrences": 38
+    },
+    {
+      "word": "course",
+      "occurrences": 28
+    },
+    {
+      "word": "people",
+      "occurrences": 27
+    },
+    {
+      "word": "mit",
+      "occurrences": 27
+    },
+    {
+      "word": "good",
+      "occurrences": 26
+    },
+    {
+      "word": "enjoy",
+      "occurrences": 26
+    },
+    {
+      "word": "games",
+      "occurrences": 26
+    },
+    {
+      "word": "things",
+      "occurrences": 26
+    },
+    {
+      "word": "friends",
+      "occurrences": 24
+    },
+    {
+      "word": "new",
+      "occurrences": 24
+    },
+    {
+      "word": "major",
+      "occurrences": 24
+    },
+    {
+      "word": "math",
+      "occurrences": 24
+    },
+    {
+      "word": "dont",
+      "occurrences": 23
+    },
+    {
+      "word": "really",
+      "occurrences": 21
+    },
+    {
+      "word": "lets",
+      "occurrences": 20
+    },
+    {
+      "word": "reading",
+      "occurrences": 19
+    },
+    {
+      "word": "movies",
+      "occurrences": 18
+    },
+    {
+      "word": "loves",
+      "occurrences": 18
+    },
+    {
+      "word": "know",
+      "occurrences": 18
+    },
+    {
+      "word": "cooking",
+      "occurrences": 17
+    },
+    {
+      "word": "time",
+      "occurrences": 17
+    },
+    {
+      "word": "dogs",
+      "occurrences": 16
+    },
+    {
+      "word": "someone",
+      "occurrences": 16
+    },
+    {
+      "word": "3",
+      "occurrences": 16
+    },
+    {
+      "word": "student",
+      "occurrences": 16
+    },
+    {
+      "word": "make",
+      "occurrences": 16
+    },
+    {
+      "word": "playing",
+      "occurrences": 16
+    },
+    {
+      "word": "meet",
+      "occurrences": 15
+    },
+    {
+      "word": "making",
+      "occurrences": 15
+    },
+    {
+      "word": "memes",
+      "occurrences": 15
+    },
+    {
+      "word": "life",
+      "occurrences": 15
+    },
+    {
+      "word": "long",
+      "occurrences": 15
+    },
+    {
+      "word": "talk",
+      "occurrences": 14
+    },
+    {
+      "word": "big",
+      "occurrences": 14
+    },
+    {
+      "word": "cs",
+      "occurrences": 14
+    },
+    {
+      "word": "physics",
+      "occurrences": 14
+    },
+    {
+      "word": "sports",
+      "occurrences": 14
+    },
+    {
+      "word": "fun",
+      "occurrences": 14
+    },
+    {
+      "word": "much",
+      "occurrences": 13
+    },
+    {
+      "word": "person",
+      "occurrences": 13
+    },
+    {
+      "word": "watching",
+      "occurrences": 13
+    },
+    {
+      "word": "always",
+      "occurrences": 13
+    },
+    {
+      "word": "coffee",
+      "occurrences": 13
+    },
+    {
+      "word": "studying",
+      "occurrences": 13
+    },
+    {
+      "word": "walks",
+      "occurrences": 13
+    },
+    {
+      "word": "likes",
+      "occurrences": 13
+    },
+    {
+      "word": "video",
+      "occurrences": 12
+    },
+    {
+      "word": "get",
+      "occurrences": 12
+    },
+    {
+      "word": "science",
+      "occurrences": 12
+    },
+    {
+      "word": "cool",
+      "occurrences": 12
+    },
+    {
+      "word": "trying",
+      "occurrences": 12
+    },
+    {
+      "word": "see",
+      "occurrences": 12
+    },
+    {
+      "word": "go",
+      "occurrences": 12
+    },
+    {
+      "word": "play",
+      "occurrences": 12
+    },
+    {
+      "word": "working",
+      "occurrences": 11
+    },
+    {
+      "word": "eating",
+      "occurrences": 11
+    },
+    {
+      "word": "dancing",
+      "occurrences": 11
+    },
+    {
+      "word": "free",
+      "occurrences": 11
+    },
+    {
+      "word": "hiking",
+      "occurrences": 11
+    },
+    {
+      "word": "boba",
+      "occurrences": 11
+    },
+    {
+      "word": "pretty",
+      "occurrences": 11
+    },
+    {
+      "word": "sometimes",
+      "occurrences": 11
+    },
+    {
+      "word": "live",
+      "occurrences": 11
+    },
+    {
+      "word": "dance",
+      "occurrences": 11
+    },
+    {
+      "word": "cat",
+      "occurrences": 10
+    },
+    {
+      "word": "lot",
+      "occurrences": 10
+    },
+    {
+      "word": "fan",
+      "occurrences": 10
+    },
+    {
+      "word": "tea",
+      "occurrences": 10
+    },
+    {
+      "word": "engineering",
+      "occurrences": 10
+    },
+    {
+      "word": "watch",
+      "occurrences": 10
+    },
+    {
+      "word": "eat",
+      "occurrences": 10
+    },
+    {
+      "word": "hello",
+      "occurrences": 10
+    },
+    {
+      "word": "learning",
+      "occurrences": 10
+    },
+    {
+      "word": "try",
+      "occurrences": 9
+    },
+    {
+      "word": "living",
+      "occurrences": 9
+    },
+    {
+      "word": "actually",
+      "occurrences": 9
+    },
+    {
+      "word": "rock",
+      "occurrences": 9
+    },
+    {
+      "word": "wanna",
+      "occurrences": 9
+    },
+    {
+      "word": "hang",
+      "occurrences": 9
+    },
+    {
+      "word": "nice",
+      "occurrences": 9
+    },
+    {
+      "word": "world",
+      "occurrences": 9
+    },
+    {
+      "word": "dog",
+      "occurrences": 9
+    },
+    {
+      "word": "basketball",
+      "occurrences": 8
+    },
+    {
+      "word": "change",
+      "occurrences": 8
+    },
+    {
+      "word": "random",
+      "occurrences": 8
+    },
+    {
+      "word": "find",
+      "occurrences": 8
+    },
+    {
+      "word": "ive",
+      "occurrences": 8
+    },
+    {
+      "word": "chocolate",
+      "occurrences": 8
+    },
+    {
+      "word": "63",
+      "occurrences": 8
+    },
+    {
+      "word": "board",
+      "occurrences": 8
+    },
+    {
+      "word": "say",
+      "occurrences": 8
+    },
+    {
+      "word": "boston",
+      "occurrences": 8
+    },
+    {
+      "word": "would",
+      "occurrences": 8
+    },
+    {
+      "word": "lover",
+      "occurrences": 8
+    },
+    {
+      "word": "singing",
+      "occurrences": 8
+    },
+    {
+      "word": "think",
+      "occurrences": 8
+    },
+    {
+      "word": "outdoors",
+      "occurrences": 7
+    },
+    {
+      "word": "u",
+      "occurrences": 7
+    },
+    {
+      "word": "writing",
+      "occurrences": 7
+    },
+    {
+      "word": "need",
+      "occurrences": 7
+    },
+    {
+      "word": "could",
+      "occurrences": 7
+    },
+    {
+      "word": "one",
+      "occurrences": 7
+    },
+    {
+      "word": "art",
+      "occurrences": 7
+    },
+    {
+      "word": "little",
+      "occurrences": 7
+    },
+    {
+      "word": "stuff",
+      "occurrences": 7
+    },
+    {
+      "word": "youre",
+      "occurrences": 7
+    },
+    {
+      "word": "isnt",
+      "occurrences": 7
+    },
+    {
+      "word": "nerd",
+      "occurrences": 7
+    },
+    {
+      "word": "friend",
+      "occurrences": 7
+    },
+    {
+      "word": "spend",
+      "occurrences": 7
+    },
+    {
+      "word": "shows",
+      "occurrences": 7
+    },
+    {
+      "word": "computer",
+      "occurrences": 7
+    },
+    {
+      "word": "anything",
+      "occurrences": 7
+    },
+    {
+      "word": "2",
+      "occurrences": 7
+    },
+    {
+      "word": "sleep",
+      "occurrences": 7
+    },
+    {
+      "word": "photography",
+      "occurrences": 7
+    },
+    {
+      "word": "hey",
+      "occurrences": 7
+    },
+    {
+      "word": "happy",
+      "occurrences": 7
+    },
+    {
+      "word": "college",
+      "occurrences": 7
+    },
+    {
+      "word": "senior",
+      "occurrences": 7
+    },
+    {
+      "word": "conversations",
+      "occurrences": 7
+    },
+    {
+      "word": "want",
+      "occurrences": 7
+    },
+    {
+      "word": "bio",
+      "occurrences": 7
+    },
+    {
+      "word": "aerospace",
+      "occurrences": 6
+    },
+    {
+      "word": "adventures",
+      "occurrences": 6
+    },
+    {
+      "word": "tv",
+      "occurrences": 6
+    },
+    {
+      "word": "space",
+      "occurrences": 6
+    },
+    {
+      "word": "bad",
+      "occurrences": 6
+    },
+    {
+      "word": "may",
+      "occurrences": 6
+    },
+    {
+      "word": "many",
+      "occurrences": 6
+    },
+    {
+      "word": "enthusiast",
+      "occurrences": 6
+    },
+    {
+      "word": "interesting",
+      "occurrences": 6
+    },
+    {
+      "word": "lol",
+      "occurrences": 6
+    },
+    {
+      "word": "cats",
+      "occurrences": 6
+    },
+    {
+      "word": "funny",
+      "occurrences": 6
+    },
+    {
+      "word": "traveling",
+      "occurrences": 6
+    },
+    {
+      "word": "questions",
+      "occurrences": 6
+    },
+    {
+      "word": "something",
+      "occurrences": 6
+    },
+    {
+      "word": "mostly",
+      "occurrences": 6
+    },
+    {
+      "word": "probably",
+      "occurrences": 6
+    },
+    {
+      "word": "favorite",
+      "occurrences": 6
+    },
+    {
+      "word": "team",
+      "occurrences": 6
+    },
+    {
+      "word": "id",
+      "occurrences": 6
+    },
+    {
+      "word": "enjoys",
+      "occurrences": 6
+    },
+    {
+      "word": "curious",
+      "occurrences": 6
+    },
+    {
+      "word": "let",
+      "occurrences": 6
+    },
+    {
+      "word": "ultimate",
+      "occurrences": 6
+    },
+    {
+      "word": "add",
+      "occurrences": 6
+    },
+    {
+      "word": "building",
+      "occurrences": 6
+    },
+    {
+      "word": "especially",
+      "occurrences": 6
+    },
+    {
+      "word": "interested",
+      "occurrences": 6
+    },
+    {
+      "word": "name",
+      "occurrences": 6
+    },
+    {
+      "word": "part",
+      "occurrences": 6
+    },
+    {
+      "word": "books",
+      "occurrences": 6
+    },
+    {
+      "word": "design",
+      "occurrences": 6
+    },
+    {
+      "word": "6",
+      "occurrences": 6
+    },
+    {
+      "word": "meeting",
+      "occurrences": 6
+    },
+    {
+      "word": "soccer",
+      "occurrences": 6
+    },
+    {
+      "word": "ill",
+      "occurrences": 6
+    },
+    {
+      "word": "anime",
+      "occurrences": 6
+    },
+    {
+      "word": "ya",
+      "occurrences": 6
+    },
+    {
+      "word": "sure",
+      "occurrences": 6
+    },
+    {
+      "word": "well",
+      "occurrences": 6
+    },
+    {
+      "word": "exploring",
+      "occurrences": 6
+    },
+    {
+      "word": "interests",
+      "occurrences": 6
+    }
